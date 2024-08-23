@@ -1,0 +1,16 @@
+.container{
+    padding: 20px;
+    font-family: serif;
+    font-size: 15px;
+    background-color: #333;
+    color: white;
+    white-space: nowrap;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+/* I want to add a color for h1 tags */
+h3{
+    color: rgba(255, 255, 0, 0.8);
+}
