@@ -12,7 +12,7 @@ function Home() {
         </div>
       </div>
       <div style={{ position: 'right', flex: 1 }}>
-        <div style={{ padding: '15px', border: '1px solid black', color: 'white', backgroundColor: 'rgba(0, 0, 0, 0.8)', border: '2px solid yellow'}}>
+        <div style={{ padding: '15px', color: 'white', backgroundColor: 'rgba(0, 0, 0, 0.8)', border: '2px solid yellow'}}>
           <center><h1 style={{ color: 'rgba(255, 255, 0, 0.8)' }}>Anushanga Kaluarachchi</h1>
             <br />
             <p>I'm a student at University of Kelaniya department of Industrial Management.<br /> My specialisation I'm doing in <b>Data Science field.</b> I'm from
@@ -22,7 +22,7 @@ function Home() {
         </div>
         <br />
         <center>
-          <div style={{ padding: '15px', border: '1px solid black', color: 'white', backgroundColor: 'rgba(0, 0, 0, 0.8)', border: '2px solid yellow'}}>
+          <div style={{ padding: '15px', color: 'white', backgroundColor: 'rgba(0, 0, 0, 0.8)', border: '2px solid yellow'}}>
             <h3 style={{ color: 'rgba(255, 255, 0, 0.8)' }}>When I'm in the university</h3>
             <br />
             <p>
@@ -40,7 +40,7 @@ function Home() {
           </div>
           <br/>
 
-          <div style={{ padding: '15px', border: '1px solid black', color: 'white', backgroundColor: 'rgba(0, 0, 0, 0.8)', border: '2px solid yellow'}}>
+          <div style={{ padding: '15px',  color: 'white', backgroundColor: 'rgba(0, 0, 0, 0.8)', border: '2px solid yellow'}}>
             <h3 style={{ color: 'rgba(255, 255, 0, 0.8)' }}>When I was in school</h3>
             <p style={{ marginTop: '10px' }}>
               My school days were filled with excitement and responsibility. As the vice-captain of the cricket team, I had the honor of leading my team on the field, where I learned the true essence of teamwork and leadership.
