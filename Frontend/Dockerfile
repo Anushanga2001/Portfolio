@@ -1,5 +1,5 @@
 # get docker image that include node already
-FROM node
+FROM node: 20.11- alpine
 
 # Defibe the folder path
 COPY ./ ./
