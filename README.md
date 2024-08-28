@@ -1,5 +1,3 @@
-Here's a suitable description you can add to the `README.md` file in your GitHub repository for your portfolio website:
-
 ---
 
 # Portfolio Website
